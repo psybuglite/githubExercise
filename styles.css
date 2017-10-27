@@ -7,7 +7,7 @@ section .nav {
   background-color: #064685;
   height: 100vh;
   position: fixed;
-  padding: 3px 7px;
+  padding: 4px 7px;
 }
 
 section .nav h3 {

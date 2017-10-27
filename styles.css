@@ -1,0 +1,21 @@
+section {
+  display: flex;
+}
+
+section .nav {
+  width: 15%;
+  background-color: pink;
+  height: 100vh;
+  position: fixed;
+  color: yellow;
+}
+
+section .main {
+  width: 85%;
+  margin-left: 15%;
+  background-color: lightblue;
+  height: 150vh;
+}
+ 
+
+ /*# sourceMappingURL= styles.css.map */
